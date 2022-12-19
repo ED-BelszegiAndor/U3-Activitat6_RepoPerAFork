@@ -128,7 +128,9 @@ public class MissatgesNadalencs {
 
 	// FILA 2
 	private static void AlumneFila2PC1() {
-
+		System.out.println("Andor Belszegi");
+		System.out.println("Feliz navidad a tod@s!");
+		System.out.println("Para este año deseo gozar de buena salud.");
 	}
 
 	private static void AlumneFila2PC2() {
