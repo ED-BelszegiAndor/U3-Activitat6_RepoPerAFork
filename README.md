@@ -54,8 +54,9 @@ Empar ha afegit el mètode que desitja: "Bon Nadal i Feliç Any Nou.  Pau i Salu
 
 
 #### AlumneFila2 PC1:
-
-
+     Andor Belszegi.
+     He modificado el archivo .java añadiendo mi nombre, una felicitación navideña y un deseo para este año nuevo.
+     
 #### AlumneFila2 PC2:
 
 
